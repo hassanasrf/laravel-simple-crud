@@ -6,8 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="public/images/screenshot-localhost-2021.02.24-20_52_59.png" width="700"></a></p>
 
-<img align="center" src="public/images/screenshot-localhost-2021.02.24-20_52_59.png" width="700">
 
 ## About Laravel
 
