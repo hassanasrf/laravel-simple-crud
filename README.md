@@ -1,5 +1,5 @@
 
-<p align="center"><a href="javascript:;"><img src="public/images/screenshot-localhost-2021.02.24-20_52_59.png" width="700"></a></p>
+<p><a href="javascript:;"><img src="public/images/screenshot-localhost-2021.02.24-20_52_59.png" width="700"></a></p>
 
 
 ## About Laravel
