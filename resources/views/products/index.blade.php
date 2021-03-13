@@ -1,5 +1,5 @@
 @extends('layouts.app')
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@10">
+
 @section('content')
 <div class="container">
   <div class="row">
@@ -60,22 +60,7 @@
 </div>
 <script>
 function myFunction() {
-  // alert("Sure you want to delete this...!");
-
-  Swal.fire({
-  title: 'Do you want to save the changes?',
-  showDenyButton: true,
-  showCancelButton: true,
-  confirmButtonText: `Save`,
-  denyButtonText: `Don't save`,
-}).then((result) => {
-  /* Read more about isConfirmed, isDenied below */
-  if (result.isConfirmed) {
-    Swal.fire('Saved!', '', 'success')
-  } else if (result.isDenied) {
-    Swal.fire('Changes are not saved', '', 'info')
-  }
-})
+  alert("Sure you want to delete this...!");
 }
 </script>
 @endsection
